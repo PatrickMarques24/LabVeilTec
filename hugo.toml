@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'fr-CH'
+title = 'Patrick Marques Meliciano - LabVeilTec'
+theme = 'hugo-paper'
