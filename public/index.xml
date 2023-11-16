@@ -8,6 +8,15 @@
     <language>fr-CH</language>
     <lastBuildDate>Tue, 26 Sep 2023 10:51:46 +0200</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>A Propos</title>
+      <link>https://example.org/a-propos/</link>
+      <pubDate>Thu, 16 Nov 2023 15:28:55 +0100</pubDate>
+      
+      <guid>https://example.org/a-propos/</guid>
+      <description>A Propos Ceci est un exemple de page à propos.</description>
+    </item>
+    
+    <item>
       <title>MonDeuxiemeArticle</title>
       <link>https://example.org/posts/mondeuxiemearticle/</link>
       <pubDate>Tue, 26 Sep 2023 10:51:46 +0200</pubDate>
@@ -24,7 +33,7 @@ Ceci n&amp;rsquo;est pas un test, c&amp;rsquo;est une ligne de texte :)</descrip
       
       <guid>https://example.org/posts/monpremierarticle/</guid>
       <description>Exercice Pratique N°3 Manière de se renseigner TLDR Lien TLDR
-Façon de s&amp;rsquo;abonner Newsletter Facebook Instagram X Linkedin existant mais pas actif Pourquoi j&amp;rsquo;ai choisit ce site On m&amp;rsquo;a parlé de ce site dont l&amp;rsquo;avantage est d&amp;rsquo;avoir une newsletter par mail qui indique les dernières actualités du monde de la tech avec une lecture extremement brève ce qui peut être parfait lorsqu&amp;rsquo;on a un petit moment à soi sans considérer ceci comme une corvée.</description>
+Façon de s&amp;rsquo;abonner Newsletter Facebook Instagram X LinkedIn existant mais pas actif Pourquoi j&amp;rsquo;ai choisit ce site On m&amp;rsquo;a parlé de ce site dont l&amp;rsquo;avantage est d&amp;rsquo;avoir une newsletter par mail qui indique les dernières actualités du monde de la tech avec une lecture extremement brève ce qui peut être parfait lorsqu&amp;rsquo;on a un petit moment à soi sans considérer ceci comme une corvée.</description>
     </item>
     
   </channel>

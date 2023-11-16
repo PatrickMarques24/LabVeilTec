@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://example.org/a-propos/</loc>
+    <lastmod>2023-11-16T15:28:55+01:00</lastmod>
+  </url><url>
     <loc>https://example.org/posts/mondeuxiemearticle/</loc>
     <lastmod>2023-09-26T10:51:46+02:00</lastmod>
   </url><url>
