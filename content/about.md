@@ -4,6 +4,4 @@ date = 2023-11-16T15:28:55+01:00
 draft = false
 +++
 
-# A Propos
-
 Ceci est un exemple de page à propos.

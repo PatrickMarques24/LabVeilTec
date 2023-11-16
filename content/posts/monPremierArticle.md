@@ -4,10 +4,6 @@ date = 2023-09-26T10:38:21+02:00
 draft = false
 +++
 
-# Exercice Pratique N°3
-
-<!-- J'ai envie de mettre un lien qui dirige sur  www.tldr.tech -->
-
 ## Manière de se renseigner
 
 ### TLDR
