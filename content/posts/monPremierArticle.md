@@ -22,7 +22,7 @@ draft = false
 - Facebook
 - Instagram
 - X
-- Linkedin existant mais pas actif
+- LinkedIn existant mais pas actif
 
 ### Pourquoi j'ai choisit ce site
 
@@ -53,7 +53,7 @@ C'est une école, donc il est évident que je ne vais pas voir autant de news qu
 - Newsletter
 - Facebook
 - X
-- Linkedin
+- LinkedIn
 - Flux RSS
 
 ### Pourquoi j'ai choisit ce site
@@ -71,7 +71,7 @@ J'ai fais diverses recherche Google et je suis tombé sur ce site, qui va énorm
 - Newsletter
 - Facebook
 - X
-- Linkedin
+- LinkedIn
 - Notifications dans le navigateur
 
 ### Pourquoi j'ai choisit ce site
