@@ -24,7 +24,7 @@ draft = false
 - X
 - LinkedIn existant mais pas actif
 
-### Pourquoi j'ai choisit ce site
+### Pourquoi j'ai choisi ce site
 
 On m'a parlé de ce site dont l'avantage est d'avoir une newsletter par mail qui indique les dernières actualités du monde de la tech avec une lecture extremement brève ce qui peut être parfait lorsqu'on a un petit moment à soi sans considérer ceci comme une corvée.
 
@@ -38,7 +38,7 @@ On m'a parlé de ce site dont l'avantage est d'avoir une newsletter par mail qui
 
 - Directement sur le site (c'est un site web d'une école à Paris)
 
-### Pourquoi j'ai choisit ce site
+### Pourquoi j'ai choisi ce site
 
 C'est une école, donc il est évident que je ne vais pas voir autant de news que si c'était un site spécialisé la dedans mais par contre je pourrais faire la connaissance de certaines technologie existante qui seraient de niche.
 
@@ -56,7 +56,7 @@ C'est une école, donc il est évident que je ne vais pas voir autant de news qu
 - LinkedIn
 - Flux RSS
 
-### Pourquoi j'ai choisit ce site
+### Pourquoi j'ai choisi ce site
 
 J'ai fais diverses recherche Google et je suis tombé sur ce site, qui va énormement me plaire, je le dis d'avance certes, mais à l'air extremement complet mais a voir avec le temps si cela parle de tout ce que je recherche.
 
@@ -74,7 +74,7 @@ J'ai fais diverses recherche Google et je suis tombé sur ce site, qui va énorm
 - LinkedIn
 - Notifications dans le navigateur
 
-### Pourquoi j'ai choisit ce site
+### Pourquoi j'ai choisi ce site
 
 M'a été suggéré par GitHub Copilot, je ne connaissais pas du tout ce site, mais il a l'air d'être un site d'actualité informatique, donc je vais voir ce que cela donne.
 
@@ -90,6 +90,6 @@ M'a été suggéré par GitHub Copilot, je ne connaissais pas du tout ce site, m
 - X
 - YouTube
 
-### Pourquoi j'ai choisit ce site
+### Pourquoi j'ai choisi ce site
 
 Il a l'air d'être accès Web et je vois que le W3 les soutiens ce qui montre donc un certain sérieux de leur part.
