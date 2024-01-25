@@ -1,7 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://PatrickMarques24.github.io/LabVeilTec'
 languageCode = 'fr-CH'
 title = 'Patrick Marques Meliciano - LabVeilTec'
-theme = 'hugo-paper'
+theme = 'paper'
 
 
 [menu]

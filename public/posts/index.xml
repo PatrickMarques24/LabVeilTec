@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Patrick Marques Meliciano - LabVeilTec</title>
-    <link>https://example.org/posts/</link>
+    <link>https://PatrickMarques24.github.io/LabVeilTec/posts/</link>
     <description>Recent content in Posts on Patrick Marques Meliciano - LabVeilTec</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-CH</language>
-    <lastBuildDate>Tue, 26 Sep 2023 10:51:46 +0200</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Sep 2023 10:51:46 +0200</lastBuildDate><atom:link href="https://PatrickMarques24.github.io/LabVeilTec/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MonDeuxiemeArticle</title>
-      <link>https://example.org/posts/mondeuxiemearticle/</link>
+      <link>https://PatrickMarques24.github.io/LabVeilTec/posts/mondeuxiemearticle/</link>
       <pubDate>Tue, 26 Sep 2023 10:51:46 +0200</pubDate>
       
-      <guid>https://example.org/posts/mondeuxiemearticle/</guid>
+      <guid>https://PatrickMarques24.github.io/LabVeilTec/posts/mondeuxiemearticle/</guid>
       <description>MonDeuxiemeArticle Déjà un deuxième ? Et oui, c&amp;rsquo;est pour essayer l&amp;rsquo;upload automatique. :)
 Ceci n&amp;rsquo;est pas un test, c&amp;rsquo;est une ligne de texte :)</description>
     </item>
     
     <item>
       <title>Exercice Pratique N°3</title>
-      <link>https://example.org/posts/monpremierarticle/</link>
+      <link>https://PatrickMarques24.github.io/LabVeilTec/posts/monpremierarticle/</link>
       <pubDate>Tue, 26 Sep 2023 10:38:21 +0200</pubDate>
       
-      <guid>https://example.org/posts/monpremierarticle/</guid>
-      <description>Exercice Pratique N°3 Manière de se renseigner TLDR Lien TLDR
-Façon de s&amp;rsquo;abonner Newsletter Facebook Instagram X LinkedIn existant mais pas actif Pourquoi j&amp;rsquo;ai choisit ce site On m&amp;rsquo;a parlé de ce site dont l&amp;rsquo;avantage est d&amp;rsquo;avoir une newsletter par mail qui indique les dernières actualités du monde de la tech avec une lecture extremement brève ce qui peut être parfait lorsqu&amp;rsquo;on a un petit moment à soi sans considérer ceci comme une corvée.</description>
+      <guid>https://PatrickMarques24.github.io/LabVeilTec/posts/monpremierarticle/</guid>
+      <description>Manière de se renseigner TLDR Lien TLDR
+Façon de s&amp;rsquo;abonner Newsletter Facebook Instagram X LinkedIn existant mais pas actif Pourquoi j&amp;rsquo;ai choisi ce site On m&amp;rsquo;a parlé de ce site dont l&amp;rsquo;avantage est d&amp;rsquo;avoir une newsletter par mail qui indique les dernières actualités du monde de la tech avec une lecture extremement brève ce qui peut être parfait lorsqu&amp;rsquo;on a un petit moment à soi sans considérer ceci comme une corvée.</description>
     </item>
     
   </channel>

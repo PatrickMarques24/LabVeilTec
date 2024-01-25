@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/a-propos/</loc>
+    <loc>https://PatrickMarques24.github.io/LabVeilTec/about/</loc>
     <lastmod>2023-11-16T15:28:55+01:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/mondeuxiemearticle/</loc>
+    <loc>https://PatrickMarques24.github.io/LabVeilTec/posts/mondeuxiemearticle/</loc>
     <lastmod>2023-09-26T10:51:46+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://PatrickMarques24.github.io/LabVeilTec/</loc>
     <lastmod>2023-09-26T10:51:46+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://PatrickMarques24.github.io/LabVeilTec/posts/</loc>
     <lastmod>2023-09-26T10:51:46+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/monpremierarticle/</loc>
+    <loc>https://PatrickMarques24.github.io/LabVeilTec/posts/monpremierarticle/</loc>
     <lastmod>2023-09-26T10:38:21+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://PatrickMarques24.github.io/LabVeilTec/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://PatrickMarques24.github.io/LabVeilTec/tags/</loc>
   </url>
 </urlset>
