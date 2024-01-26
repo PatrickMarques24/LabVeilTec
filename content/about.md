@@ -6,7 +6,13 @@ draft = false
 
 Une page à propos... comme d'habitude sur les sites, mais cette fois-ci, c'est la mienne.
 
-Ce projet est un projet pour le cours de "Veille Technologique" de la HEIG-VD.
+Ce projet est un projet pour le cours de "Veille Technologique" de la HEIG-VD en Ingénierie des Médias.
+
+L'exercice vise à sensibiliser les étudiants à la veille technologique, un processus essentiel dans un domaine en constante évolution.
+
+Dans ce cadre, les étudiants sont invités à découvrir différentes sources d'informations technologiques et à apprendre à identifier, collecter et analyser les informations pertinentes pour leur domaine. Ils sont également invités à réfléchir à la manière de stocker les informations pertinentes, en fonction de leurs besoins et de leurs préférences.
+
+Cette démarche permet aux étudiants de développer leurs compétences en veille technologique et de prendre conscience de l'importance de cette activité dans un domaine où l'évolution est rapide.
 
 ## Qui suis-je ?
 
@@ -37,8 +43,19 @@ Il est composé de 4 parties:
 
 Il m'a été très difficile de faire cet Ikigai, notamment avec la partie "Ce dont le monde à besoin", parce que je prenais cette case de manière trop générale, et je me disais que le monde n'avait pas besoin de moi, mais en fait, il faut prendre cette case de manière plus personnelle, et donc, ce dont j'ai besoin ou le monde qui m'est proche tant en terme de relationnel ou en terme géographique (ma ville, mon pays, etc...) aurait besoin.
 
-![Mon Ikigai](./img/monikigai.png)
+![Mon Ikigai](../img/monikigai.png)
 
-Mon Ikigai, donc ce qui est au milieu de tout, c'est "Fournir / ensigner des solutions digitale afin de répondre aux objectifs d'autrui". Qui se transmettrait par le multimédia, c'est ce que j'aime, c'est ce dans quoi je suis doué, c'est ce dont j'ai besoin et c'est ce pour quoi je peux être payé.
+Mon Ikigai, donc ce qui est au milieu de tout, c'est "Fournir / enseigner des solutions digitale afin de répondre aux objectifs d'autrui". Mon Ikigai se transmettrait par le multimédia, c'est ce que j'aime, c'est ce dans quoi je suis doué, c'est ce dont j'ai besoin et c'est ce pour quoi je peux être payé.
 
 Ce qui fait que dans le cadre de la veille, je me concentre surtout sur le multimédia, donc que cela soit des nouveautés web, mais aussi des nouveautés en terme de graphisme, de vidéo, de son, etc...
+
+## Les taxonomies
+
+Je dois vous parler des taxonomies, mais je ne sais pas trop quoi dire, parce que pour être franc, je n'ai pas extrêmement bien compris ce qui est demandé dans le cadre de ce cours, ne serait-ce que j'ai réalisé mes articles comme si c'était un blog, en mettant un peu de détente avec les émojis, mis des titres qui pourraient faire genre journal, et non pas comme si c'était un site de veille.
+
+## Le choix de mon SSG
+Le choix du SSG (Static Site Generation) pour ce site web a été très simple, j'ai choisi Hugo, car c'est celui qui a été présenté par notre professeur, et il a vanté les mérites d'Hugo pour sa simplicité et sa rapidité.
+
+Que je peux qu'approuver car les pages sont assez simples à faire car nous y écrivons en Markdown, langue que j'ai appris à utiliser dans le cadre de ces études (tellement plus rapide à mettre en page un document 🙏).
+
+Je tiens à noter que je ne connaissais pas les principes d'un SSG et je me dis que cela peut être extrêmement pratique pour des petits sites web qui n'ont pas besoin de bouger dans le temps et que l'on veut mettre en place rapidement, sans faire des mises à jour constamment.
