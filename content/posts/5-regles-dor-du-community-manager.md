@@ -1,10 +1,10 @@
 +++
-title = "10 règles d'or du Community Manager 📢"
+title = "5 règles d'or du Community Manager 📢"
 date = 2024-01-27T02:39:25+01:00
 draft = false
 +++
 
-Les amis, je ne vous cache pas que je suis en manque d'inspirations pour ce dernier article, mais je vais tout de même rédiger cet article qui porte sur les 10 règles d'or du Community Manager. Donc pour les personnes du domaine, vous risquez de vous ennuyer devant cet article, mais ça aiderait les plus novices.
+Les amis, je ne vous cache pas que je suis en manque d'inspirations pour ce dernier article, mais je vais tout de même rédiger cet article qui porte sur les 5 règles d'or du Community Manager. Donc pour les personnes du domaine, vous risquez de vous ennuyer devant cet article, mais ça aiderait les plus novices.
 
 ## "Bof c'est facile, il suffit de poster des trucs sur les réseaux sociaux"
 
