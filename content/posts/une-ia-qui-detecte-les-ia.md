@@ -8,7 +8,7 @@ Dans cet article, je vais vous parler d'une IA qui détecte les IA générative.
 
 ## Une IA générative ?
 
-Je ne pense que je n'ai nul le besoin de vous rappeler qu'une IA est une intelligence artificielle.
+Je pense que je n'ai nul besoin de vous rappeler qu'une IA est une intelligence artificielle.
 
 Il existe des IA génératives qui sont des IA qui génèrent des images, des textes, des vidéos, etc... et qui sont très utiles pour les créateurs de contenu.
 
@@ -36,7 +36,7 @@ Nous y voilà!
 
 Le journal du Web a réalisé en juillet 2023, un [top 5 des meilleurs détecteurs d'IA (AI Detector). (Source 3)](https://www.journalduweb.org/top-5-des-meilleurs-detecteurs-dia-ai-detector/)
 
-Je vais vous parler de la meilleur IA naturellement ainsi que ses points forts et ses potentiels points faibles.
+Je vais vous parler de la meilleure IA naturellement ainsi que ses points forts et ses potentiels points faibles.
 
 Mais votre lecture de cet article ne s'arrêtera pas là car je vais également vous parler d'une autre IA et il est fort probable que vous ayez un petit rire ou au minimum un rictus en lisant.
 

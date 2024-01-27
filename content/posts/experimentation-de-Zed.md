@@ -12,7 +12,7 @@ Dans cet article, je vais vous parler d'une expérience que j'ai réalisé avec 
 
 Je m'attends à ce que [Zed](https://zed.dev) soit facile d'utilisation et nécessite peu de configuration et de manipulation pour pouvoir travailler à plusieurs sur un même fichier.
 
-## Résultat obtenu
+## Résultat obtenu
 
 Je n'ai rien trouvé dans les menus, les paramètres sont un fichier JSON avec 3 paramètres dedans, je me suis connecté à mon compte GitHub pour voir s'il y avait des fonctionnalités qui auraient pu apparâitre en me connectant.
 

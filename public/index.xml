@@ -6,38 +6,85 @@
     <description>Recent content on Patrick Marques Meliciano - LabVeilTec</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-CH</language>
-    <lastBuildDate>Tue, 26 Sep 2023 10:51:46 +0200</lastBuildDate><atom:link href="https://PatrickMarques24.github.io/LabVeilTec/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Jan 2024 03:08:12 +0100</lastBuildDate><atom:link href="https://PatrickMarques24.github.io/LabVeilTec/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A Propos</title>
+      <title>Expérimentation de Zed 🧑‍💻</title>
+      <link>https://PatrickMarques24.github.io/LabVeilTec/posts/experimentation-de-zed/</link>
+      <pubDate>Sat, 27 Jan 2024 03:08:12 +0100</pubDate>
+      
+      <guid>https://PatrickMarques24.github.io/LabVeilTec/posts/experimentation-de-zed/</guid>
+      <description>Sujet et objectif de l&amp;rsquo;expérience Dans cet article, je vais vous parler d&amp;rsquo;une expérience que j&amp;rsquo;ai réalisé avec un ami, nous avons utilisé Zed, un éditeur de code en ligne qui permet de travailler à plusieurs sur un même fichier.
+Résultat attendu Je m&amp;rsquo;attends à ce que Zed soit facile d&amp;rsquo;utilisation et nécessite peu de configuration et de manipulation pour pouvoir travailler à plusieurs sur un même fichier.
+Résultat obtenu Je n&amp;rsquo;ai rien trouvé dans les menus, les paramètres sont un fichier JSON avec 3 paramètres dedans, je me suis connecté à mon compte GitHub pour voir s&amp;rsquo;il y avait des fonctionnalités qui auraient pu apparâitre en me connectant.</description>
+    </item>
+    
+    <item>
+      <title>10 règles d&#39;or du Community Manager 📢</title>
+      <link>https://PatrickMarques24.github.io/LabVeilTec/posts/10-regles-dor-du-community-manager/</link>
+      <pubDate>Sat, 27 Jan 2024 02:39:25 +0100</pubDate>
+      
+      <guid>https://PatrickMarques24.github.io/LabVeilTec/posts/10-regles-dor-du-community-manager/</guid>
+      <description>Les amis, je ne vous cache pas que je suis en manque d&amp;rsquo;inspirations pour ce dernier article, mais je vais tout de même rédiger cet article qui porte sur les 10 règles d&amp;rsquo;or du Community Manager. Donc pour les personnes du domaine, vous risquez de vous ennuyer devant cet article, mais ça aiderait les plus novices.
+&amp;ldquo;Bof c&amp;rsquo;est facile, il suffit de poster des trucs sur les réseaux sociaux&amp;rdquo; Eh bien non, être un Community Manager ce n&amp;rsquo;est pas juste partager des choses sur les réseaux sociaux, vous représentez votre entreprise sur les réseaux.</description>
+    </item>
+    
+    <item>
+      <title>Enfin coder pour Android et iOS en même temps 🤖📱</title>
+      <link>https://PatrickMarques24.github.io/LabVeilTec/posts/coder-pour-android-et-ios/</link>
+      <pubDate>Sat, 27 Jan 2024 01:48:47 +0100</pubDate>
+      
+      <guid>https://PatrickMarques24.github.io/LabVeilTec/posts/coder-pour-android-et-ios/</guid>
+      <description>Dans cet article on s&amp;rsquo;éloigne peut-être de monsieur et madame tout le monde, mais dans fournir de l&amp;rsquo;aide à autrui, cela peut aussi parler des développeurs, ou même les clients finaux qui souhaitent avoir une application mobile.
+Mais on peut déjà coder pour les deux plateforme non ? En effet, mais avec des petites subtilités.
+Dans un cours de développement mobile on nous a fait découvrir Ionic qui permet de faire des applciations mobiles pour Android et iOS et on nous a clairement informé que pour simuler un iPhone, il nous faut un Mac, mais pour simuler un Android, peut importe.</description>
+    </item>
+    
+    <item>
+      <title>Google Docs du code sur Mac ? 🤯</title>
+      <link>https://PatrickMarques24.github.io/LabVeilTec/posts/google-docs-du-code-sur-mac/</link>
+      <pubDate>Fri, 26 Jan 2024 23:46:27 +0100</pubDate>
+      
+      <guid>https://PatrickMarques24.github.io/LabVeilTec/posts/google-docs-du-code-sur-mac/</guid>
+      <description>⚠️ Pour les personnes sur Windows et Linux, je vous invite tout de même à lire cet article, c&amp;rsquo;est positif, promis. 😉
+Avez-vous déjà essayer de coder à plusieurs en même temps ?
+Parce que vous me diriez qu&amp;rsquo;il y a GitHub qui existe et qui permet de travailler à plusieurs sur un même projet, mais ce n&amp;rsquo;est pas vraiment ce que je veux dire.
+Je veux vraiment parler d&amp;rsquo;être à plusieurs en même temps, donc OK on pourrait être plusieurs autour du même ordinateur ou faire comme moi, être en appel Discord et faire un partage d&amp;rsquo;écran et il y en a un qui regarde et commente et l&amp;rsquo;autre qui code, mais ce n&amp;rsquo;est pas le plus incroyable.</description>
+    </item>
+    
+    <item>
+      <title>Une IA qui détecte les IA ? 🤖</title>
+      <link>https://PatrickMarques24.github.io/LabVeilTec/posts/une-ia-qui-detecte-les-ia/</link>
+      <pubDate>Fri, 26 Jan 2024 10:51:46 +0200</pubDate>
+      
+      <guid>https://PatrickMarques24.github.io/LabVeilTec/posts/une-ia-qui-detecte-les-ia/</guid>
+      <description>Dans cet article, je vais vous parler d&amp;rsquo;une IA qui détecte les IA générative.
+Une IA générative ? Je pense que je n&amp;rsquo;ai nul besoin de vous rappeler qu&amp;rsquo;une IA est une intelligence artificielle.
+Il existe des IA génératives qui sont des IA qui génèrent des images, des textes, des vidéos, etc&amp;hellip; et qui sont très utiles pour les créateurs de contenu.
+De manière générale, ces IA peuvent faire économiser un temps phénoménal que cela soit pour de la création de texte, trouver des idées, faire des calculs, pourquoi pas faire des recherches sur le web avec une synthèse des arguments pour et contre, etc&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>À propos</title>
       <link>https://PatrickMarques24.github.io/LabVeilTec/about/</link>
       <pubDate>Thu, 16 Nov 2023 15:28:55 +0100</pubDate>
       
       <guid>https://PatrickMarques24.github.io/LabVeilTec/about/</guid>
       <description>Une page à propos&amp;hellip; comme d&amp;rsquo;habitude sur les sites, mais cette fois-ci, c&amp;rsquo;est la mienne.
-Ce projet est un projet pour le cours de &amp;ldquo;Veille Technologique&amp;rdquo; de la HEIG-VD.
-Qui suis-je ? Je m&amp;rsquo;appelle Patrick Marques Meliciano, je suis diplômé d&amp;rsquo;un CFC de médiamaticien depuis 2018, je suis actuellement en dernière année en ingénierie des média à la HEIG-VD.
-Passionné par le multimédia depuis mon plus jeune âge, je suis déterminé à jouer un rôle clé au sein d&amp;rsquo;une entreprise, contribuant ainsi à son développement en relevant avec succès ses défis.</description>
+Ce projet est un projet pour le cours de &amp;ldquo;Veille Technologique&amp;rdquo; de la HEIG-VD en Ingénierie des Médias.
+L&amp;rsquo;exercice vise à sensibiliser les étudiants à la veille technologique, un processus essentiel dans un domaine en constante évolution.
+Dans ce cadre, les étudiants sont invités à découvrir différentes sources d&amp;rsquo;informations technologiques et à apprendre à identifier, collecter et analyser les informations pertinentes pour leur domaine.</description>
     </item>
     
     <item>
-      <title>MonDeuxiemeArticle</title>
-      <link>https://PatrickMarques24.github.io/LabVeilTec/posts/mondeuxiemearticle/</link>
-      <pubDate>Tue, 26 Sep 2023 10:51:46 +0200</pubDate>
-      
-      <guid>https://PatrickMarques24.github.io/LabVeilTec/posts/mondeuxiemearticle/</guid>
-      <description>MonDeuxiemeArticle Déjà un deuxième ? Et oui, c&amp;rsquo;est pour essayer l&amp;rsquo;upload automatique. :)
-Ceci n&amp;rsquo;est pas un test, c&amp;rsquo;est une ligne de texte :)</description>
-    </item>
-    
-    <item>
-      <title>Les sites d&#39;informations</title>
-      <link>https://PatrickMarques24.github.io/LabVeilTec/posts/manieredesinformer/</link>
+      <title>Les sites d&#39;informations 🤓</title>
+      <link>https://PatrickMarques24.github.io/LabVeilTec/posts/les-sites-d-informations/</link>
       <pubDate>Tue, 26 Sep 2023 10:38:21 +0200</pubDate>
       
-      <guid>https://PatrickMarques24.github.io/LabVeilTec/posts/manieredesinformer/</guid>
+      <guid>https://PatrickMarques24.github.io/LabVeilTec/posts/les-sites-d-informations/</guid>
       <description>Pour mon cours de veille technologique, je devais me perdre sur le web afin de trouver des sites d&amp;rsquo;informations qui pourraient m&amp;rsquo;intéresser.
-Manière de se renseigner TLDR Lien TLDR
-Façon de s&amp;rsquo;abonner Newsletter Facebook Instagram X LinkedIn existant mais pas actif Pourquoi j&amp;rsquo;ai choisi ce site On m&amp;rsquo;a parlé de ce site dont l&amp;rsquo;avantage est d&amp;rsquo;avoir une newsletter par mail qui indique les dernières actualités du monde de la tech avec une lecture extremement brève ce qui peut être parfait lorsqu&amp;rsquo;on a un petit moment à soi sans considérer ceci comme une corvée.</description>
+Voici une liste non exhaustive de sites qui m&amp;rsquo;intéressent ou pourraient m&amp;rsquo;intéresser.
+Je me dois également de vous partager celui que j&amp;rsquo;utilise personnellement et cela sera en fin d&amp;rsquo;article. 😉
+Pour les autres, l&amp;rsquo;ordre n&amp;rsquo;est pas figé dans le marbre, il s&amp;rsquo;agit simplement de l&amp;rsquo;ordre dans lequel je les ai découvert ou pensé à eux, donc d&amp;rsquo;un certain point de vue cela pourrait être ceux avec lesquelles je pourrais travailler le plus.</description>
     </item>
     
   </channel>

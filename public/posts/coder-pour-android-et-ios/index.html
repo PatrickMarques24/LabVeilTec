@@ -1,0 +1,327 @@
+<!doctype html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html
+  class="not-ready lg:text-base"
+  style="--bg: #faf8f1"
+  lang="fr-CH"
+>
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no"
+  />
+
+  
+  <title>Enfin coder pour Android et iOS en même temps 🤖📱 - Patrick Marques Meliciano - LabVeilTec</title>
+
+  
+  <meta name="theme-color" />
+
+  
+  
+  
+  
+  <meta name="description" content="Dans cet article on s&rsquo;éloigne peut-être de monsieur et madame tout le monde, mais dans fournir de l&rsquo;aide à autrui, cela peut aussi parler des développeurs, ou même les clients finaux qui souhaitent avoir une application mobile.
+Mais on peut déjà coder pour les deux plateforme non ? En effet, mais avec des petites subtilités.
+Dans un cours de développement mobile on nous a fait découvrir Ionic qui permet de faire des applciations mobiles pour Android et iOS et on nous a clairement informé que pour simuler un iPhone, il nous faut un Mac, mais pour simuler un Android, peut importe." />
+  <meta name="author" content="Patrick Marques Meliciano - LabVeilTec" />
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="preload stylesheet" as="style" href="https://PatrickMarques24.github.io/LabVeilTec/main.min.css" />
+
+  
+  
+  
+  
+  
+  <link rel="preload" as="image" href="https://PatrickMarques24.github.io/LabVeilTec/theme.png" />
+
+  
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  <script
+    defer
+    src="https://PatrickMarques24.github.io/LabVeilTec/highlight.min.js"
+    onload="hljs.initHighlightingOnLoad();"
+  ></script>
+  
+
+  
+  
+  
+
+  
+  <link rel="icon" href="https://PatrickMarques24.github.io/LabVeilTec/favicon.ico" />
+  <link rel="apple-touch-icon" href="https://PatrickMarques24.github.io/LabVeilTec/apple-touch-icon.png" />
+
+  
+  <meta name="generator" content="Hugo 0.119.0">
+
+  
+  
+  
+  
+  
+  <meta itemprop="name" content="Enfin coder pour Android et iOS en même temps 🤖📱">
+<meta itemprop="description" content="Dans cet article on s&rsquo;éloigne peut-être de monsieur et madame tout le monde, mais dans fournir de l&rsquo;aide à autrui, cela peut aussi parler des développeurs, ou même les clients finaux qui souhaitent avoir une application mobile.
+Mais on peut déjà coder pour les deux plateforme non ? En effet, mais avec des petites subtilités.
+Dans un cours de développement mobile on nous a fait découvrir Ionic qui permet de faire des applciations mobiles pour Android et iOS et on nous a clairement informé que pour simuler un iPhone, il nous faut un Mac, mais pour simuler un Android, peut importe."><meta itemprop="datePublished" content="2024-01-27T01:48:47+01:00" />
+<meta itemprop="dateModified" content="2024-01-27T01:48:47+01:00" />
+<meta itemprop="wordCount" content="282">
+<meta itemprop="keywords" content="" />
+  
+  <meta property="og:title" content="Enfin coder pour Android et iOS en même temps 🤖📱" />
+<meta property="og:description" content="Dans cet article on s&rsquo;éloigne peut-être de monsieur et madame tout le monde, mais dans fournir de l&rsquo;aide à autrui, cela peut aussi parler des développeurs, ou même les clients finaux qui souhaitent avoir une application mobile.
+Mais on peut déjà coder pour les deux plateforme non ? En effet, mais avec des petites subtilités.
+Dans un cours de développement mobile on nous a fait découvrir Ionic qui permet de faire des applciations mobiles pour Android et iOS et on nous a clairement informé que pour simuler un iPhone, il nous faut un Mac, mais pour simuler un Android, peut importe." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://PatrickMarques24.github.io/LabVeilTec/posts/coder-pour-android-et-ios/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2024-01-27T01:48:47+01:00" />
+<meta property="article:modified_time" content="2024-01-27T01:48:47+01:00" />
+
+  
+  <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Enfin coder pour Android et iOS en même temps 🤖📱"/>
+<meta name="twitter:description" content="Dans cet article on s&rsquo;éloigne peut-être de monsieur et madame tout le monde, mais dans fournir de l&rsquo;aide à autrui, cela peut aussi parler des développeurs, ou même les clients finaux qui souhaitent avoir une application mobile.
+Mais on peut déjà coder pour les deux plateforme non ? En effet, mais avec des petites subtilités.
+Dans un cours de développement mobile on nous a fait découvrir Ionic qui permet de faire des applciations mobiles pour Android et iOS et on nous a clairement informé que pour simuler un iPhone, il nous faut un Mac, mais pour simuler un Android, peut importe."/>
+
+  
+  
+  
+  <link rel="canonical" href="https://PatrickMarques24.github.io/LabVeilTec/posts/coder-pour-android-et-ios/" />
+  
+  
+</head>
+
+  <body class="text-black duration-200 ease-out dark:text-white">
+    <header class="mx-auto flex h-[4.5rem] max-w-3xl px-8 lg:justify-center">
+  <div class="relative z-50 mr-auto flex items-center">
+    <a
+      class="-translate-x-[1px] -translate-y-[1px] text-2xl font-semibold"
+      href="https://PatrickMarques24.github.io/LabVeilTec"
+      >Patrick Marques Meliciano - LabVeilTec</a
+    >
+    <div
+      class="btn-dark text-[0] ml-4 h-6 w-6 shrink-0 cursor-pointer [background:url(./theme.png)_left_center/_auto_theme('spacing.6')_no-repeat] [transition:_background-position_0.4s_steps(5)] dark:[background-position:right]"
+      role="button"
+      aria-label="Dark"
+    ></div>
+  </div>
+
+  <div
+    class="btn-menu relative z-50 -mr-8 flex h-[4.5rem] w-[5rem] shrink-0 cursor-pointer flex-col items-center justify-center gap-2.5 lg:hidden"
+    role="button"
+    aria-label="Menu"
+  ></div>
+
+  
+
+  <script>
+    
+    const htmlClass = document.documentElement.classList;
+    setTimeout(() => {
+      htmlClass.remove('not-ready');
+    }, 10);
+
+    
+    const btnMenu = document.querySelector('.btn-menu');
+    btnMenu.addEventListener('click', () => {
+      htmlClass.toggle('open');
+    });
+
+    
+    const metaTheme = document.querySelector('meta[name="theme-color"]');
+    const lightBg = '#faf8f1'.replace(/"/g, '');
+    const setDark = (isDark) => {
+      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      htmlClass[isDark ? 'add' : 'remove']('dark');
+      localStorage.setItem('dark', isDark);
+    };
+
+    
+    const darkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+    if (htmlClass.contains('dark')) {
+      setDark(true);
+    } else {
+      const darkVal = localStorage.getItem('dark');
+      setDark(darkVal ? darkVal === 'true' : darkScheme.matches);
+    }
+
+    
+    darkScheme.addEventListener('change', (event) => {
+      setDark(event.matches);
+    });
+
+    
+    const btnDark = document.querySelector('.btn-dark');
+    btnDark.addEventListener('click', () => {
+      setDark(localStorage.getItem('dark') !== 'true');
+    });
+  </script>
+
+  <div
+    class="nav-wrapper fixed inset-x-0 top-full z-40 flex h-full select-none flex-col justify-center pb-16 duration-200 dark:bg-black lg:static lg:h-auto lg:flex-row lg:!bg-transparent lg:pb-0 lg:transition-none"
+  >
+    
+    
+    <nav class="lg:ml-12 lg:flex lg:flex-row lg:items-center lg:space-x-6">
+      
+      <a
+        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/LabVeilTec/about/"
+        >À propos</a
+      >
+      
+    </nav>
+    
+
+    
+  </div>
+</header>
+
+
+    <main
+      class="prose prose-neutral relative mx-auto min-h-[calc(100%-9rem)] max-w-3xl px-8 pb-16 pt-12 dark:prose-invert"
+    >
+      
+
+<article>
+  <header class="mb-16">
+    <h1 class="!my-0 pb-2.5">Enfin coder pour Android et iOS en même temps 🤖📱</h1>
+
+    
+    <div class="text-sm antialiased opacity-60">
+      
+      <time>Jan 27, 2024</time>
+      
+      
+      
+      
+    </div>
+    
+  </header>
+
+  <section><p>Dans cet article on s&rsquo;éloigne peut-être de monsieur et madame tout le monde, mais dans fournir de l&rsquo;aide à autrui, cela peut aussi parler des développeurs, ou même les clients finaux qui souhaitent avoir une application mobile.</p>
+<h2 id="mais-on-peut-déjà-coder-pour-les-deux-plateforme-non-">Mais on peut déjà coder pour les deux plateforme non ?</h2>
+<p>En effet, mais avec des petites subtilités.</p>
+<p>Dans un cours de développement mobile on nous a fait découvrir Ionic qui permet de faire des applciations mobiles pour Android et iOS et on nous a clairement informé que pour simuler un iPhone, il nous faut un Mac, mais pour simuler un Android, peut importe.</p>
+<p>Et en consultant l&rsquo;un de mes site sources, je suis tombé sur un article datant du 26 janvier 2024, donc en terme de récent on est pas mal. 😍</p>
+<h2 id="et-donc-une-solution-">Et donc, une solution ?</h2>
+<p>Alors, pas vraiment, il y a une liste d&rsquo;attente.</p>
+<p>Google a commencé un projet en août dernier, de développement qui permettrait de développer pour Android et iOS en même temps.</p>
+<p>Surnommée <a href="https://idx.dev">Project IDX</a>, la solution propose aux différents développeurs de coder directement depuis un navigateur web, donc la solution est multiplateforme.</p>
+<p>## Conclusion
+Les développeurs seront vraiment heureux d&rsquo;utiliser une plateforme commune pour développer pour ces deux systèmes d&rsquo;exploitations et ce peut importe la plateforme qu&rsquo;ils utilisent, même sur une tablette, donc les développeurs qui cherchaient de la portabilités seront surement très satisfait.</p>
+<h1 id="sources">Sources</h1>
+<p>1 - KRILL, Paul et Dominique FILIPPONE. Avec Build Cloud, Docker améliore la productivité des développeurs - Le Monde Informatique. LeMondeInformatique [en ligne]. [sans date] [consulté le 27 janvier 2024]. Disponible sur : <a href="https://www.lemondeinformatique.fr/actualites/lire-avec-build-cloud-docker-ameliore-la-productivite-des-developpeurs-92761.html">https://www.lemondeinformatique.fr/actualites/lire-avec-build-cloud-docker-ameliore-la-productivite-des-developpeurs-92761.html</a></p>
+<p>2 - Project IDX. Project IDX [en ligne]. [sans date] [consulté le 27 janvier 2024]. Disponible sur : <a href="https://idx.dev">https://idx.dev</a></p>
+</section>
+
+  
+  
+
+  
+  
+  
+  
+  <nav class="mt-24 flex rounded-lg bg-black/[3%] text-lg dark:bg-white/[8%]">
+    
+    <a
+      class="flex w-1/2 items-center rounded-l-md p-6 pr-3 font-semibold no-underline hover:bg-black/[2%] dark:hover:bg-white/[3%]"
+      href="https://PatrickMarques24.github.io/LabVeilTec/posts/10-regles-dor-du-community-manager/"
+      ><span class="mr-1.5">←</span><span>10 règles d&#39;or du Community Manager 📢</span></a
+    >
+    
+    
+    <a
+      class="ml-auto flex w-1/2 items-center justify-end rounded-r-md p-6 pl-3 font-semibold no-underline hover:bg-black/[2%] dark:hover:bg-white/[3%]"
+      href="https://PatrickMarques24.github.io/LabVeilTec/posts/google-docs-du-code-sur-mac/"
+      ><span>Google Docs du code sur Mac ? 🤯</span><span class="ml-1.5">→</span></a
+    >
+    
+  </nav>
+  
+  
+
+  
+  
+
+  
+  
+
+  
+
+
+  
+</article>
+
+
+    </main>
+
+    <footer
+  class="opaco mx-auto flex h-[4.5rem] max-w-3xl items-center px-8 text-[0.9em] opacity-60"
+>
+  <div class="mr-auto">
+    &copy; 2024
+    <a class="link" href="https://PatrickMarques24.github.io/LabVeilTec">Patrick Marques Meliciano - LabVeilTec</a>
+  </div>
+  <a class="link mx-6" href="https://gohugo.io/" rel="noopener" target="_blank"
+    >Powered by Hugo️️</a
+  >️
+  <a
+    class="link"
+    href="https://github.com/nanxiaobei/hugo-paper"
+    rel="noopener"
+    target="_blank"
+    >✎ Paper</a
+  >
+</footer>
+
+  </body>
+</html>

@@ -6,7 +6,7 @@ draft = false
 
 Pour mon cours de veille technologique, je devais me perdre sur le web afin de trouver des sites d'informations qui pourraient m'intéresser.
 
-Voici une liste non exaustive de sites qui existent mais est exaustive dans le fait qu'ils sont tous des sites qui m'intéressent ou pourraient m'intéresser.
+Voici une liste non exhaustive de sites qui m'intéressent ou pourraient m'intéresser.
 
 Je me dois également de vous partager celui que j'utilise personnellement et cela sera en fin d'article. 😉
 

@@ -53,9 +53,9 @@ Ce qui fait que dans le cadre de la veille, je me concentre surtout sur le multi
 
 Je dois vous parler des taxonomies, mais je ne sais pas trop quoi dire, parce que pour être franc, je n'ai pas extrêmement bien compris ce qui est demandé dans le cadre de ce cours, ne serait-ce que j'ai réalisé mes articles comme si c'était un blog, en mettant un peu de détente avec les émojis, mis des titres qui pourraient faire genre journal, et non pas comme si c'était un site de veille.
 
-## Le choix de mon SSG
+## Le choix de mon SSG
 
-Le choix du SSG (Static Site Generation) pour ce site web a été très simple, j'ai choisi Hugo, car c'est celui qui a été présenté par notre professeur, et il a vanté les mérites d'Hugo pour sa simplicité et sa rapidité.
+Le choix du SSG (Static Site Generator) pour ce site web a été très simple, j'ai choisi Hugo, car c'est celui qui a été présenté par notre professeur, et il a vanté les mérites d'Hugo pour sa simplicité et sa rapidité.
 
 Que je peux qu'approuver car les pages sont assez simples à faire car nous y écrivons en Markdown, langue que j'ai appris à utiliser dans le cadre de ces études (tellement plus rapide à mettre en page un document 🙏).
 
