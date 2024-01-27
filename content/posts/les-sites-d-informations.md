@@ -1,5 +1,5 @@
 +++
-title = "Les sites d'informations"
+title = "Les sites d'informations 🤓"
 date = 2023-09-26T10:38:21+02:00
 draft = false
 +++
@@ -16,11 +16,11 @@ Pour les autres, l'ordre n'est pas figé dans le marbre, il s'agit simplement de
 
 Oui en effet, de la veille technologique!
 
-Dans ma page [à propos](../about.md), que nous lisons pas forcément tous, je le conçois, j'indique que je fais de la veille technologique, pour faire simple et éviter de me répéter, ce serait "récupérer des informations pertinentes pour moi et les stocker quelque part afin de pouvoir les retrouver facilement et les lire quand j'ai le temps afin de progresser dans mon domaine".
+Dans ma page [à propos](../../about.md), que nous lisons pas forcément tous, je le conçois, j'indique que je fais de la veille technologique, pour faire simple et éviter de me répéter, ce serait "récupérer des informations pertinentes pour moi et les stocker quelque part afin de pouvoir les retrouver facilement et les lire quand j'ai le temps afin de progresser dans mon domaine".
 
 ## Manière de se renseigner
 
-### BDM
+### Blog Du Modérateur
 
 #### Lien
 
@@ -39,24 +39,6 @@ Dans ma page [à propos](../about.md), que nous lisons pas forcément tous, je l
 ### Pourquoi j'ai choisi ce site
 
 Il m'a été présenté lors d'un cours de Marketing Digital, j'ai eu peur qu'il s'axe purement sur le marketing, mais en fait, il est très complet et parle également de web, social, technologie et aussi rassemble sur une page des outils pratiques en fonction du domaine.
-
-### L'Usine Digitale
-
-#### Lien
-
-[L'Usine Digitale](https://www.usine-digitale.fr/)
-
-#### Façon de s'abonner
-
-- Newsletter
-- Facebook
-- X
-- LinkedIn
-- Flux RSS
-
-### Pourquoi j'ai choisi ce site
-
-J'ai fais diverses recherche Google et je suis tombé sur ce site, qui va énormement me plaire, je le dis d'avance certes, mais à l'air extremement complet mais a voir avec le temps si cela parle de tout ce que je recherche.
 
 ### Journal du Web
 
@@ -94,22 +76,6 @@ Il n'est pas impossible que l'on m'en ait parlé durant un cours.
 
 M'a été suggéré par GitHub Copilot, autant être franc, je ne connaissais pas du tout ce site, mais il a l'air d'être un site d'actualité informatique, donc je vais voir ce que cela donne.
 
-### EEMI
-
-#### Lien
-
-[EEMI](https://www.eemi.com/)
-
-#### Façon de s'abonner
-
-- Directement sur le site (c'est un site web d'une école à Paris)
-
-### Pourquoi j'ai choisi ce site
-
-Je suis conscient que celui-là sort un peu des sentiers battus, mais j'ai tenu à le mettre suite à sa découverte.
-
-C'est une école, donc il est évident que je ne vais pas voir autant de news que si c'était un site spécialisé la dedans mais par contre je pourrais faire la connaissance de certaines technologie existante qui seraient de niche.
-
 ### TLDR Tech - Mon choix 😍
 
 #### Lien
@@ -126,7 +92,7 @@ C'est une école, donc il est évident que je ne vais pas voir autant de news qu
 
 ### Pourquoi j'ai choisi ce site
 
-Un collègue m'a parlé de ce site dont l'avantage est d'avoir une newsletter par mail qui indique les dernières actualités du monde de la tech avec une lecture extremement brève ce qui peut être parfait lorsqu'on a un petit moment à soi sans considérer ceci comme une corvée.
+Un collègue m'a parlé de ce site dont l'avantage est d'avoir quotidiennement une newsletter en anglais qui indique les dernières actualités du monde de la tech avec une lecture extremement brève ce qui peut être parfait lorsqu'on a un petit moment à soi sans considérer ceci comme une corvée.
 
 Il s'agit même du seul outil que j'utilise à l'heure actuelle grâce à ce cours et l'écriture de cet article. Mais surtout grâce à ce collègue qui m'a fait connaître ce site.
 
@@ -135,3 +101,16 @@ L'inscription est très simple, il suffit de donner son adresse mail et de confi
 Pourquoi j'ai choisir celui-là ? Parce qu'il est vrai que je suis un peu passif et j'attends que l'information vienne à moi plutôt que cela soit moi qui parte à la recherche de nouvelles informations, et vu que je lis quotidiennement mes mails, je me suis dit que c'était le truc parfait ne serait-ce au moins pour lire les gros titres.
 
 Mais là ce n'est pas fini, seulement sur le site de TLDR Tech [TLDRTech](https://tldr.tech), on peut trouver plusieurs sujets que voici sur ce lien [TLDRTech - Newsletters](https://tldr.tech/newsletters).
+
+#### Comment je stocke les informations ?
+
+Vous savez, il y a plusieurs moyens de stocker de l'informations.
+Bon, je ne suis pas du genre à imprimer une page web mais j'ai plutôt tendance à conserver les informations sur mon ordinateur et plus particulièrement sur mon navigateur Safari 🧭  (cool l'unicode hein ? 😉).
+
+Donc ma méthode de travail actuelle est "quand je vois quelque chose qui pourrait m'être utile pour plus tard, je l'enregistres dans mes favoris en fonction du thème".
+
+Après, ce qui est dommage c'est que parfois, au lieu de mettre directement en favoris alors que je n'aurais peut-être pas forcément lu le contenu, je pourrais le mettre dans la "liste de lecture" 👓, qui permet simplement de faire une liste d'attente des articles et ensuite je traite en fonction. De plus, cette liste de lecture se synchronise entre mes différents appareils de l'écosystème Apple, donc je pense que je vais commencer à utiliser cette fonctionnalité.
+
+Et si on pousse à l'extrême, il y aurait encore la possibilité d'enregistrer le PDF et de le mettre en local sur mon ordinateur, un cloud, ou encore mieux sur ce site web par exemple, et pourquoi pas mettre un champs de recherche, comme ça l'information serait enregistrée avec mon propre langage, ma propre manière de comprendre les choses, et je pourrais retrouver l'information plus facilement. Et au moins, si la page web d'où j'ai pris l'information disparaît, je n'aurais pas perdu l'information.
+
+Enfaite, je suis conscient qu'il faut faire de la veille, mais je pense que si je recherche purement une information, je peux aussi compter sur la force des moteurs de recherche pour découvrir des choses.

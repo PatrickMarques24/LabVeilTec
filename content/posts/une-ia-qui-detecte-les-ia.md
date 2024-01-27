@@ -1,5 +1,5 @@
 +++
-title = 'Une IA qui détecte les IA ?'
+title = 'Une IA qui détecte les IA ? 🤖'
 date = 2024-01-26T10:51:46+02:00
 draft = false
 +++
@@ -80,7 +80,7 @@ Pour conclure ce deuxième article de mon site, dont j'espère que les prochains
 
 Vu que nous sommes énormément sujets à utiliser les IA dans nos créations, je me suis dit qu'il était extrêmement pertinent d'écrire un article sur ces IA qui détectent les IA.
 
-## Source
+# Sources
 
 1 - TUAL, Morgane. A peine lancée, une intelligence artificielle de Microsoft dérape sur Twitter. Le Monde.fr [en ligne]. 24 mars 2016 [consulté le 26 janvier 2024]. Disponible sur : [https://www.lemonde.fr/pixels/article/2016/03/24/a-peine-lancee-une-intelligence-artificielle-de-microsoft-derape-sur-twitter_4889661_4408996.html](https://www.lemonde.fr/pixels/article/2016/03/24/a-peine-lancee-une-intelligence-artificielle-de-microsoft-derape-sur-twitter_4889661_4408996.html)
 
